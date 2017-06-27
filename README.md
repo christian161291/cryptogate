@@ -1,5 +1,7 @@
 # cryptogate
-A simple, very simple graphic java frame to encode strings with the most common encoding schemes.
+A simple (VERY SIMPLE) graphic java frame to encode strings with the most common encryption schemes.
+
+It's just a good starting point to start building something more complex and useful.
 
 Everyone can use it, update, join etc.
 
